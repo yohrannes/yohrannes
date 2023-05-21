@@ -1,18 +1,45 @@
 <h1 align="center">Hi 👋, I'm Yohrannes Santos Bigoli</h1>
-<h3 align="center">I am a Systems analysis degree working as IT Support Assistant in Brazil</h3>
 
-- 🔭 I’m currently working on **SaveinCloud**
+###
 
-- 🌱 I’m currently learning **Sql languages, HTML5 and CSS3, Shell script, Python, Linux Containers, Virtuozzo Platform**
+<p align="center">I am a Systems analysis degree working as IT Support Assistant in Brazil</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yohrannes](https://github.com/yohrannes)
+###
 
-- 💬 Ask me about **SQL, Cloud Servers**
+<h2 align="left">About me</h2>
 
-- 📫 How to reach me **yohrannes@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/yohrannes-santos-bigoli-46076ab3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+<p align="left">🔭 I’m currently working on SaveinCloud<br><br>🌱 I’m currently learning Sql languages, HTML5 and CSS3, Shell script, Python, Linux Containers and Virtuozzo Platform tecnologies.<br><br>👨‍💻 All of my projects are available at https://github.com/yohrannes<br><br>💬 Ask me about SQL, Cloud Servers<br><br>📫 How to reach me yohrannes@gmail.com</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" width="52" alt="centos logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" width="52" alt="filezilla logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/yohrannes/yohrannes/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.ibb.co/RBBwnp4/mod-power-final.gif"  />
+</div>
+
+###
