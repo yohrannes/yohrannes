@@ -32,12 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/yohrannes/yohrannes/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://i.ibb.co/RBBwnp4/mod-power-final.gif"  />
 </div>
