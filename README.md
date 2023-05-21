@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohrannes Santos Bigoli</h1>
-<h3 align="center">I am a systems Analysis degree working as IT support assistant in Brazil</h3>
+<h3 align="center">I am a Systems analysis degree working as IT Support Assistant in Brazil</h3>
 
 - 🔭 I’m currently working on **SaveinCloud**
 
