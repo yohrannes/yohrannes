@@ -31,4 +31,3 @@
   <a href="https://trello.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <a href="https://code.visualstudio.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-###
