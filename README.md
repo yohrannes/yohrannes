@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a Systems analysis degree working as IT Support Assistant in Brazil</p>
+<p align="center">I am a Systems analysis degree working as IT Support Analyst in Brazil</p>
 
 ###
 
