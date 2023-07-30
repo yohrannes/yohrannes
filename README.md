@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="vscode logo"/>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" target="_blank" rel="external" ><img src="https://www.php.net/" height="50" width="50" alt="php logo"/>
+  <a href="https://www.php.net/" target="_blank" rel="external" ><img src="https://www.php.net/images/logos/new-php-logo.png" height="50" width="50" alt="php logo"/>
   <a href="https://www.linux.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash logo"/>
   <a href="https://www.centos.org/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="50" width="50" alt="centos logo"/>
   <a href="https://www.nginx.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="50" alt="nginx logo"/>
