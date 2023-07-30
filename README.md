@@ -28,7 +28,7 @@
   <a href="https://www.centos.org/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" width="52" alt="centos logo"  />
   <a href="https://filezilla-project.org/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" width="52" alt="filezilla logo"  />
   <a href="https://www.nginx.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
-  <a href="https://trello.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <a href="https://code.visualstudio.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <a href="https://vzlinux.org/" target="_blank" rel="external" ><img src="https://d7umqicpi7263.cloudfront.net/img/product/701f527f-dc1d-4462-8126-a4aa1e1c2d88.png" height="40" width="52" alt="vzlinux logo"  />
+    <a href="https://openvz.org/" target="_blank" rel="external" ><img src="https://openvz.org/img/logo.png" height="40" width="52" alt="vzlinux logo"  />
 </div>
