@@ -30,5 +30,4 @@
   <a href="https://www.mysql.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="mysql logo"/></a>
   <a href="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="50" alt="microsoftsqlserver logo"/>
 </div>
-
-<h2 align="left">## Here below are pinned my current projects, take a look ;)</h2>
+## Here below are pinned my current projects, take a look ;)
