@@ -26,8 +26,9 @@
   <a href="https://www.apache.org/" target="_blank" rel="external" ><img src="https://www.apache.org/foundation/press/kit/feather.png" height="50" width="40" alt="microsoftsqlserver logo"/>
   <a href="https://vzlinux.org/" target="_blank" rel="external" ><img src="https://d7umqicpi7263.cloudfront.net/img/product/701f527f-dc1d-4462-8126-a4aa1e1c2d88.png" height="50" width="50" alt="vzlinux logo"/>
   <a href="https://openvz.org/" target="_blank" rel="external" ><img src="https://openvz.org/img/logo.png" height="50" width="50" alt="vzlinux logo"/>
-  <a href="https://www.php.net/" target="_blank" rel="external" ><img src="https://logospng.org/download/php/logo-php-1024.png" height="50" width="50" alt="php logo"/>
   <a href="https://www.docker.com/" target="_blank" rel="external" ><img src="images/dockerlogo.webp" height="50" width="50" alt="php logo"/>
+  <a href="https://www.python.org/" target="_blank" rel="external" ><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="60" width="50" alt="php logo"/>
+  <a href="https://www.php.net/" target="_blank" rel="external" ><img src="https://logospng.org/download/php/logo-php-1024.png" height="50" width="50" alt="php logo"/>
   <a href="https://www.mysql.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="mysql logo"/></a>
   <a href="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="50" alt="microsoftsqlserver logo"/>
 </div>
