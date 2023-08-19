@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on SaveinCloud<br><br>🌱 I’m currently learning Sql languages, HTML5 and CSS3, Shell script, Python, Linux Containers and Virtuozzo Platform tecnologies.<br><br>👨‍💻 All of my projects are available at https://github.com/yohrannes<br><br>💬 Ask me about SQL, Cloud Servers<br><br>📫 How to reach me yohrannes@gmail.com</p>
+<p align="left">🔭 I’m currently working on SaveinCloud<br><br>🌱 I’m currently learning, HTML5 and CSS3, Shell script, Python, Linux Containers and Virtuozzo Platform tecnologies.<br><br>👨‍💻 All of my projects are available at https://github.com/yohrannes<br><br>💬 Ask me about Cloud Servers, linux, DevOPS<br><br>📫 How to reach me yohrannes@gmail.com</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
