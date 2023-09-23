@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on <a href="https://saveincloud.com/pt/" target="_blank" rel="external" >Saveincloud Company</a>.<br><br>🌱 I’m currently learning, HTML5 and CSS3, Shell script, Python, Linux Containers and <a href="https://virtuozzo.com/" target="_blank" rel="external" >Virtuozzo Platform Tecnologies</a>.<br><br>👨‍💻 All of my projects are available at https://github.com/yohrannes<br><br>💬 Ask me about Cloud Servers, linux, DevOPS<br><br>📫 How to reach me yohrannes@gmail.com</p>
+<p align="left">🔭 I’m currently working on <a href="https://saveincloud.com/pt/" target="_blank" rel="external" >Saveincloud Company</a>.<br><br>🌱 I’m currently learning, HTML5 and CSS3, Shell script, Python, Docker and <a href="https://virtuozzo.com/" target="_blank" rel="external" >Virtuozzo Platform Tecnologies</a>.<br><br>👨‍💻 All of my projects are available at https://github.com/yohrannes<br><br>💬 Ask me about Cloud Servers, linux, DevOPS<br><br>📫 How to reach me yohrannes@gmail.com</p>
 
 ###
 
