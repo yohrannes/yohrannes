@@ -26,9 +26,9 @@
   <a href="https://www.apache.org/" target="_blank" rel="external" ><img src="https://www.apache.org/foundation/press/kit/feather.png" height="50" width="40" alt="microsoftsqlserver logo"/>
   <a href="https://openvz.org/" target="_blank" rel="external" ><img src="https://openvz.org/img/logo.png" height="50" width="50" alt="vzlinux logo"/>
   <a href="https://www.docker.com/" target="_blank" rel="external" ><img src="images/dockerlogo.webp" height="50" width="50" alt="php logo"/>
-  <a href="https://www.python.org/" target="_blank" rel="external" ><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="60" width="50" alt="php logo"/>
+  <a href="https://www.python.org/" target="_blank" rel="external" ><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="45" width="40" alt="php logo"/>
   <a href="https://www.mysql.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="mysql logo"/></a>
-  <a href="https://console.cloud.google.com/" target="_blank" rel="external" ><img src="images/Google-Cloud-Emblem.png" height="50" width="100" alt="mysql logo"/></a>
+  <a href="https://console.cloud.google.com/" target="_blank" rel="external" ><img src="images/Google-Cloud-Emblem.png" height="45" width="55" alt="mysql logo"/></a>
 </div>
     
 ### Here below are pinned my current projects, take a look ;)
