@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a Systems analysis degree working as Cloud Infrastructure Analyst in Brazil</p>
+<p align="center">I am a Systems analysis degree working as Cloud Engineering in Brazil</p>
 
 ###
 
