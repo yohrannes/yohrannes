@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on <a href="https://saveincloud.com/pt/" target="_blank" rel="external" >Saveincloud Company</a>.<br><br>🌱 I’m currently learning Shell script, Python, Kubernetes, CI/CD, Docker and <a href="https://virtuozzo.com/" target="_blank" rel="external" >Virtuozzo Cloud Platform Tecnologies</a>.<br><br>👨‍💻 All of my projects are available here bellow.<br><br>💬 Ask me about Cloud Servers, linux, DevOPS.<br><br>📫 How to reach me yohrannes@gmail.com.</p>
+<p align="left">🔭 I’m currently working as a site reliability engineering (SRE).<br><br>🌱 I’m currently learning Shell script, Python, Kubernetes, CI/CD, Docker and Cloud tecnologies.<br><br>👨‍💻 All of my projects are available here bellow.<br><br>💬 Ask me about Cloud Servers, linux, DevOPS.<br><br>📫 How to reach me yohrannes@gmail.com.</p>
 
 ###
 
