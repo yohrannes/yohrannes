@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as a site reliability engineering (SRE).<br><br>🌱 I’m currently learning Shell script, Python, Kubernetes, CI/CD, Docker and Cloud tecnologies.<br><br>👨‍💻 All of my projects are available here bellow.<br><br>💬 Ask me about Cloud Servers, linux, DevOPS.<br><br>📫 How to reach me yohrannes@gmail.com.</p>
+<p align="left">🔭 I’m currently working as a site reliability engineering (SRE).<br><br>🌱 I’m currently learning Terraform, Kubernetes, CI/CD, Docker and Cloud tecnologies.<br><br>👨‍💻 All of my projects are available here bellow.<br><br>💬 Ask me about Cloud Servers, linux, DevOPS.<br><br>📫 How to reach me yohrannes@gmail.com.</p>
 
 ###
 
