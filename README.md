@@ -20,6 +20,7 @@
 
 <div align="left">
   <a href="https://www.linux.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash logo"/>
+  <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="external" ><img src="images/terraform.png" height="50" width="50" alt="bash logo"/>
   <a href="https://www.redhat.com/" target="_blank" rel="external" ><img src="images/redhat_logo_icon.png" height="50" width="50" alt="centos logo"/>
   <a href="https://www.virtuozzo.com/" target="_blank" rel="external" ><img src="images/Virtuozzo_Icon.png" height="50" width="50" alt="vzlinux logo"/>
   <a href="https://www.nginx.com/" target="_blank" rel="external" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="50" alt="nginx logo"/>
